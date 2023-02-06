@@ -68,7 +68,7 @@
     "unimport": "^2.1.0",
     "unplugin": "^1.0.1",
     "untyped": "^1.2.2",
-    "vite": "~3.2.5",
+    "vite": "~4.1.1",
     "vue-bundle-renderer": "^1.0.0"
   },
   "devDependencies": {
